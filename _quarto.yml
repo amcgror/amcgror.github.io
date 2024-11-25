@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "amcgror.github.io"
+  
+  
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: My Blog
+      - href: research.qmd
+        text: My Research
+      - href: static/CCV-AbigailMcGrory-Full_CV.pdf
+        text: CV        
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+editor: visual
+
+execute: 
+  freeze: auto

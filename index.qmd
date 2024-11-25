@@ -1,0 +1,23 @@
+---
+title: "Abigail McGrory"
+image: images/heidi.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/abigail-mcgrory/
+    - icon: github
+      text: Github
+      href: https://github.com/amcgror
+---
+
+I am a PhD student in Biostatistics at the Dalla Lana School of Public Health, University of Toronto
+
+## Education
+
+University of Toronto \| PhD, Biostatistics, 2024 - Present
+
+University of Toronto \| MSc, Biostatistics, 2022-2024
+
+Western Univeristy \| BSc, Actuarial Science, 2016-2021

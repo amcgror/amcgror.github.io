@@ -1,0 +1,15 @@
+{
+  "hash": "f619b42ba9c6f151d02aca6edd0fbc48",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Tutorial\"\nauthor: \"Abigail McGrory\"\ndate: \"2024-11-25\"\ncategories: [tutorial]\nimage: \"dallalana.jpg\"\n---\n\n\n\nThis is a post with executable code.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
